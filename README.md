@@ -25,3 +25,5 @@ Matrix_C = 0 1 2 3 4 5 6 ... 99
 8. Try to comment your code as much as possible. This is a programming habit assembly.
 Analysis:
 After implementation, analyze the hit rate of ALL cache combinations possible for a cache of 1024 bytes (Cache size (bytes) = 1024) in the tool MARS “Data Cache Simulator” while maintaining the LRU replacement policy. For the analysis, consider matrices with 10 rows/columns and vary the in-line access. column and column-row. Display the hit rate in ALL combinations.
+
+Analysis: After implementation, analyze the hit rate of ALL cache combinations possible for a cache of 1024 bytes (Cache size (bytes) = 1024) in the tool MARS “Data Cache Simulator” while maintaining the LRU replacement policy. For the analysis, consider matrices with 10 rows/columns and vary the in-line access. column and column-row. Display the hit rate in ALL combinations.
